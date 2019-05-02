@@ -1,6 +1,7 @@
 # BertLayer with tf.keras for fine tuning CPU/GPU
+ - Tensorflow 1.13.1
  - For binary classification task  
- tensorflow 1.13.1
+
 # Model 
 ![Model](https://github.com/sabirdvd/Bert_with_keras_custom_layer/blob/master/model.gif)
  
