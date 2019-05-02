@@ -6,7 +6,6 @@ import re
 import numpy as np
 
 
-#from bert.tokenization import FullTokenizer
 from bert.tokenization import FullTokenizer
 import bert
 from bert import tokenization
